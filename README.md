@@ -3,7 +3,7 @@ A doodle jump like game, made from scratch using unity3D. Feel free to use it ho
 
 
 ## Screenshots and GIFs:
-coming soon...
+<img src="Assets/rocket ride GIF.gif" width="250"/>
 
 ## Project logic:
 The use of vertices specified from the cursor's coordinates clicks to dynamically generate and configure a mesh, rigidbody2D, color, and 2D collider.
