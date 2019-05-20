@@ -19,8 +19,8 @@ Requires Unity3D (tested with 2018.x, but should also work with 2017.x & 5.x)
 |   └── ship.prefab              - The predefined game object of the playable ship.
 ├── Scenes
 |   └── Main.unity               - The project's main scene.
-├── Sprites                       
-└── Scripts                      - Simply contains graphical game assets. 
+├── Sprites                      - Simply contains graphical game assets. 
+└── Scripts                      - Contains logic code of the game 
     ├── GameManager.cs           - The main code of creation and interaction.
     ├── PadBehaviour.cs          - Handles the pad's boost and collisions.
     ├── PlayerBehaviour.cs       - Handles the horizental moves of ship.
