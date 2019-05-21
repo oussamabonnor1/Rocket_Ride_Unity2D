@@ -1,4 +1,8 @@
 # Rocket_Ride_Unity3D
+
+![GitHub license](https://img.shields.io/github/license/oussamabonnor1/SimpleCalculator-WPF.svg)
+![Jetlight studio](https://img.shields.io/badge/Made%20by-Jetlight%20studio-blue.svg?color=082544)
+
 A doodle jump like game, made from scratch using unity3D. Feel free to use it however you want, a little mention would help a lot! 
 
 
