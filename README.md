@@ -30,4 +30,17 @@ Requires Unity3D (tested with 2018.x, but should also work with 2017.x & 5.x)
 ## Running the Project
 To run the project, open _Scenes/Main.unity and click on the play button.
 
+## Game logic
 Use the left and right arrows to move the rocket, land on the platforms and indrease your score! 
+
+## Tools used:
+* Visual studio (IDE)
+* C# (logic)
+* Unity (game engine)
+* Paint.Net (Image editting)
+
+## Contribution:
+Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
+
+## Team:
+[Jetlighters](https://github.com/JetLightStudio) having fun.
