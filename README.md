@@ -46,5 +46,9 @@ Use the left and right arrows to move the rocket, land on the platforms and indr
 ## Contribution:
 Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/oussamabonnor1/Rocket_Ride_Unity2D.svg)](https://starchart.cc/oussamabonnor1/Rocket_Ride_Unity2D/starcharts)
+
 ## Team:
 [Jetlighters](https://github.com/JetLightStudio) having fun.
